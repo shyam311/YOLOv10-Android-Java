@@ -50,6 +50,7 @@ public class OverlayView extends View {
         boxPaint.setColor(ContextCompat.getColor(getContext(), R.color.white));
         boxPaint.setStrokeWidth(6f);
         boxPaint.setStyle(Paint.Style.STROKE);
+        
     }
 
     @Override
